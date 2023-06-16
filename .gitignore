@@ -1,0 +1,6 @@
+﻿**/app.config
+**/Debug
+**/Release
+**/Packages
+**/.vs
+**/.user

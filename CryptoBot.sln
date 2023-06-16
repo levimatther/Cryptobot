@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cryptobot.Interfaces", "Cryptobot.Interfaces\Cryptobot.Interfaces.csproj", "{3F72E454-B6D4-4A8B-BF52-52109EA3C593}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoBot.Strategy.SPH", "CryptoBot.Strategy.SPH\CryptoBot.Strategy.SPH.csproj", "{5D443F43-6932-4F55-AC91-2EC8B666140E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoBot.Indicators", "CryptoBot.Indicators\CryptoBot.Indicators.csproj", "{07B6C478-0695-48D1-8883-0DAA2B643141}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoBot.Strategy.TrendReversal", "CryptoBot.Strategy.TrendReversal\CryptoBot.Strategy.TrendReversal.csproj", "{37D75E8A-5628-4F2C-9F51-7004F67D6494}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoBot", "CryptoBot\CryptoBot.csproj", "{465A91BB-6F44-40FA-946A-B9307FC91ED4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F72E454-B6D4-4A8B-BF52-52109EA3C593}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F72E454-B6D4-4A8B-BF52-52109EA3C593}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F72E454-B6D4-4A8B-BF52-52109EA3C593}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F72E454-B6D4-4A8B-BF52-52109EA3C593}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D443F43-6932-4F55-AC91-2EC8B666140E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D443F43-6932-4F55-AC91-2EC8B666140E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D443F43-6932-4F55-AC91-2EC8B666140E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D443F43-6932-4F55-AC91-2EC8B666140E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07B6C478-0695-48D1-8883-0DAA2B643141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07B6C478-0695-48D1-8883-0DAA2B643141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07B6C478-0695-48D1-8883-0DAA2B643141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07B6C478-0695-48D1-8883-0DAA2B643141}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37D75E8A-5628-4F2C-9F51-7004F67D6494}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37D75E8A-5628-4F2C-9F51-7004F67D6494}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37D75E8A-5628-4F2C-9F51-7004F67D6494}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37D75E8A-5628-4F2C-9F51-7004F67D6494}.Release|Any CPU.Build.0 = Release|Any CPU
+		{465A91BB-6F44-40FA-946A-B9307FC91ED4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{465A91BB-6F44-40FA-946A-B9307FC91ED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{465A91BB-6F44-40FA-946A-B9307FC91ED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{465A91BB-6F44-40FA-946A-B9307FC91ED4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59C09A68-A012-47F6-8B7F-1237E2D7EF03}
+	EndGlobalSection
+EndGlobal
